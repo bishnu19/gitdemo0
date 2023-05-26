@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("Hello World ");
 		
 		System.out.println("git add");
+		System.out.println("added into new branch");
+		System.out.println("added a branch bugfix");
 		
 
 	}
