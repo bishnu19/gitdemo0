@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World ");
 		System.out.println("Hello hello ");
 		System.out.println("Java class");
+		System.out.println("git add");
 
 	}
 
